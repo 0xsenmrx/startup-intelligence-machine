@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo ============================================
-echo  Startup Intelligence Machine v4.1 Launcher
+echo  Startup Intelligence Machine v0.1 Launcher
 echo ============================================
 echo.
 

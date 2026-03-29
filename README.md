@@ -1,6 +1,6 @@
 # Startup Intelligence Machine v0.1
 
-&gt; **"Zero to One" meets Multi-Agent AI** — A brutal, framework-driven ideation system that kills bad ideas fast and validates good ones faster.
+> **"Zero to One" meets Multi-Agent AI** — A brutal, framework-driven ideation system that kills bad ideas fast and validates good ones faster.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
